@@ -20,7 +20,7 @@ To get this contract up and running, you’ll need [Node.js](https://nodejs.org/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/kirilradkov14/presale-contract.git
+   git clone https://github.com/smartdev-124/presale-contract.git
    cd <your-project-folder>
    ```
 
